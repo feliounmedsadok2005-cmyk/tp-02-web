@@ -25,3 +25,9 @@ body {
  table th , table td {
  border : 1 px solid # ccc ;
  padding : 8 px 14 px ;
+  text - align : center ;
+ }
+ table th {
+ background - color : #007 BFF ;
+ color : white ;
+ }
